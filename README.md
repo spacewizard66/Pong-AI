@@ -14,6 +14,6 @@ It counts every ball that is bounced.
 ![PongAI](https://github.com/spacewizard66/Pong-AI/blob/main/PongAI.gif)
 
 ## Contact
-  -Mason Galat
+  - Mason Galat
   
-  -mason4work@outlook.com
+  - mason4work@outlook.com
