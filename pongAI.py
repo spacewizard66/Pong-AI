@@ -1,10 +1,4 @@
-# Fun AI Version of Playable PongGame
-
-# TO DO
-# Needs a scoring system
-# New Colors Maybe?
-
-
+# Fun AI version of playable Pong game
 from inspect import BoundArguments
 import pygame, sys, random
 
@@ -106,8 +100,7 @@ def bounce_count():
 
 
 
-##############################################################################
-# Loop runs the game
+############################ Loop runs the game ################################
 while True:
     # Handling Input
     for event in pygame.event.get():
