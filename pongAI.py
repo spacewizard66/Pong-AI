@@ -36,7 +36,7 @@ ball_speed_y = 1 * random.choice((1, -1))
 player_speed = 2
 opponent_speed = 2
 
-count_value = 9961
+count_value = 0
 
 font_size = 90
 font = pygame.font.Font(None, font_size)
@@ -92,7 +92,6 @@ def bounce_count():
     # Logic to count bounces when ball collides
     if ball.colliderect(opponent) or ball.colliderect(player):
         count_value += 1
-        print(count_value)
     else:
         pass
     count = font.render(str(count_value), True, red)
