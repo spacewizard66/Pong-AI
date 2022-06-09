@@ -10,7 +10,7 @@ An infinitely-running A.I.-controlled implementation of the classic game, Pong.
 
 It counts every ball bounce. For science and entertainment.
 
-[PongAI](https://user-images.githubusercontent.com/70931763/172795016-1f80870a-a165-4bfa-8f35-d44795dcf98b.gif)
+<img src="https://github.com/spacewizard66/Pong-AI/blob/main/PongAI.gif?raw=true" width="350" height="240" />
 
 ## Contact
   -Mason Galat
