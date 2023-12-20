@@ -6,7 +6,7 @@
 
 ## About
 
-An infinitely-running A.I.-controlled implementation of the classic game, Pong.
+An infinitely-running implementation of the classic game, Pong.
 
 It counts every ball that is bounced.
 
